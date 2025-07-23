@@ -1,6 +1,6 @@
 # Exercícios Visualg - Natthy
 
-Esse repositório contém uma coleção de exercícios feitos em Visualg, focados em lógica de programação para fortalecer meus conhecimentos e práticas.
+Esse repositório contém uma coleção de exercícios feitos em Visualg, focados em lógica de programação para fortalecer seus conhecimentos e práticas.
 
 ## Conteúdo
 
